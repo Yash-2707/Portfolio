@@ -129,7 +129,7 @@ const Hero = () => {
                     >
                         {[
                             { icon: <Github size={24} />, href: "https://github.com/Yash-2707" },
-                            { icon: <Linkedin size={24} />, href: "https://www.linkedin.com/in/yashvrathod2004" }
+                            { icon: <Linkedin size={24} />, href: "https://www.linkedin.com/in/yash-rathod-2a9a64256/" }
                         ].map((social, i) => (
                             <a
                                 key={i}
